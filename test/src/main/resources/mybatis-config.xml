@@ -7,6 +7,6 @@
 		<typeAlias type="com.test.test1.vo.Member" alias="Member" />
 	</typeAliases>
 	<mappers>
-		<mapper resource="memberMapper.xml" />
+		<mapper resource="mapper/memberMapper.xml" />
 	</mappers>
 </configuration>
